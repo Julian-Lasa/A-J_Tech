@@ -10848,10 +10848,36 @@ padding-top: 8rem;
 padding-bottom: 8rem;
 }
 header.masthead2 {
+position: relative;     
+height: 750px;
+background-color: #343a40;
+background: url("../assets/img/dispositivos-apple.jpg") no-repeat center center;
+background-size: cover;
+padding-top: 5rem;
+padding-bottom: 8rem;
+}
+header.masthead3 {
 position: relative;
 height: 750px;
 background-color: #343a40;
 background: url("../assets/img/iphones.jpg") no-repeat center center;
+padding-top: 8rem;
+padding-bottom: 8rem;
+}
+header.masthead4 {
+position: relative;
+height: 750px;
+background-color: #343a40;
+background: url("../assets/img/top-of-watches.jpg") no-repeat center center;
+background-size: cover;
+padding-top: 8rem;
+padding-bottom: 8rem;
+}
+header.masthead5 {
+position: relative;
+height: 650px;
+background-color: #343a40;
+background: url("../assets/img/top-of-macbook.jpg") no-repeat center center;
 padding-top: 8rem;
 padding-bottom: 8rem;
 }
